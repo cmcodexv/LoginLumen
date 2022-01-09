@@ -1,6 +1,6 @@
 # Login with Lumen PHP Framework using JWT
 
-Project: Login with Lumen using JWT
+Project: Login with Lumen using JWT.
 
 Author: [Carlos Maradiaga](https://instagram.com/carlosmxv)
 

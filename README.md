@@ -2,7 +2,6 @@
 
 Project: Login with Lumen using JWT.
 
-Author: [Carlos Maradiaga](https://instagram.com/carlosmxv)
 
 Official Documentation:
 
